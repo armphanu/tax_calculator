@@ -553,7 +553,7 @@ G_MODULE_EXPORT void on_btn_clear3_clicked()
 
 G_MODULE_EXPORT void on_btn_shipping_clicked()
 {
-    ans = ans*0.1;
+    ans = ans*0.01;
     char str_num[100];
     itoa(ans,str_num,10);
     gtk_label_set_text(GTK_LABEL(g_lbl_display3), str_num);
@@ -561,7 +561,7 @@ G_MODULE_EXPORT void on_btn_shipping_clicked()
 
 G_MODULE_EXPORT void on_btn_ad_clicked()
 {
-    ans = ans*0.2;
+    ans = ans*0.02;
     char str_num[100];
     itoa(ans,str_num,10);
     gtk_label_set_text(GTK_LABEL(g_lbl_display3), str_num);
@@ -569,7 +569,7 @@ G_MODULE_EXPORT void on_btn_ad_clicked()
 
 G_MODULE_EXPORT void on_btn_ser_clicked()
 {
-    ans = ans*0.3;
+    ans = ans*0.03;
     char str_num[100];
     itoa(ans,str_num,10);
     gtk_label_set_text(GTK_LABEL(g_lbl_display3), str_num);
@@ -577,7 +577,7 @@ G_MODULE_EXPORT void on_btn_ser_clicked()
 
 G_MODULE_EXPORT void on_btn_rental_clicked()
 {
-    ans = ans*0.5;
+    ans = ans*0.05;
     char str_num[100];
     itoa(ans,str_num,10);
     gtk_label_set_text(GTK_LABEL(g_lbl_display3), str_num);
