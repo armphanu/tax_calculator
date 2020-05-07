@@ -7,7 +7,10 @@
 ## Webside
 https://webcp-e8b87.firebaseapp.com/
 
+## Link VDO
+https://www.youtube.com/watch?v=4Wm9AFuaUJc
+
 ## Poster
-![Image description](https://s3-ap-southeast-1.amazonaws.com/img-in-th/022be8fc0ce864f0e0b5c95b6e5d3522.jpg)
+!(https://s3-ap-southeast-1.amazonaws.com/img-in-th/022be8fc0ce864f0e0b5c95b6e5d3522.th.jpg)
 
 
